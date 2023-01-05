@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋, I'm Alessio</h1>
-<h3 align="center">A 23 y.o. Attending master course in Computer Science</h3>
+<h1 align="center">Hi 👋</h1>
+
+
 
 
 🔭 I’m currently working on **non-rigid 3D alignement on human bodies**
