@@ -1,5 +1,3 @@
-# AlessiOrl
-
 #### 👨🏻‍💻&nbsp;GitHub Profile Stats
 
 <p align=left>
