@@ -2,11 +2,11 @@
 <h3 align="center">A 23 y.o. Attending master course in Computer Science</h3>
 
 
-- 🔭 I’m currently working on **non-rigid 3D alignement on human bodies**
+🔭 I’m currently working on **non-rigid 3D alignement on human bodies**
 
-- 👨‍💻 All of my projects are available at [https://github.com/AlessiOrl](https://github.com/AlessiOrl)
+👨‍💻 All of my projects are available at [https://github.com/AlessiOrl](https://github.com/AlessiOrl)
 
-- 📫 How to reach me **orlandoalessio1998@gmail.com**
+📫 How to reach me **orlandoalessio1998@gmail.com**
 
 
 ### Contacts
@@ -27,7 +27,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alessiorl&show_icons=true&locale=en&layout=compact" alt="alessiorl" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alessiorl&show_icons=true&locale=en" alt="alessiorl" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=alessiorl&show_icons=true&locale=en" alt="alessiorl" /></p>
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/AlessiOrl"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="AlessiOrl" /></a></p><br><br>
