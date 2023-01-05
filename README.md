@@ -30,7 +30,7 @@
 
 <p align=left>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Alessiorll&show_icons=true&theme=tokyonight&line_height=33&hide_border=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Alessiorl&show_icons=true&theme=tokyonight&line_height=33&hide_border=true" />
 </a>
   
 <a href="https://github.com/anuraghazra/convoychat">
