@@ -8,7 +8,17 @@
 - 👨‍💻 All of my projects are available at [https://github.com/AlessiOrl](https://github.com/AlessiOrl)
 
 - 📫 How to reach me **orlandoalessio1998@gmail.com**
+- 
+### Contacts
 
+<br>
+
+[![Linkedin: AlessiOrl](https://img.shields.io/badge/-Riccardo-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alessiorl)](https://www.linkedin.com/in/alessiorl/)&nbsp;&nbsp;
+[![GitHub Riccorl](https://img.shields.io/github/followers/alessiorl?label=follow&style=social)](https://github.com/alessiorl)&nbsp;&nbsp;
+
+<br>
+
+<hr>
 <h3 align="left">Contacts</h3>
 <p align="left">
 <a href="https://linkedin.com/in/alessiorl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alessiorl" height="30" width="40" /></a>
