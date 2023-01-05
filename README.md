@@ -1,8 +1,5 @@
 <h1 align="center">Hi 👋</h1>
 
-
-
-
 🔭 I’m currently working on **non-rigid 3D alignement on human bodies**
 
 👨‍💻 All of my projects are available at [https://github.com/AlessiOrl](https://github.com/AlessiOrl)
@@ -11,10 +8,8 @@
 
 <br>
 <hr>
-<br>
 
 ### Contacts
-
 <br>
 
 [![Linkedin: AlessiOrl](https://img.shields.io/badge/-Alessio-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alessiorl)](https://www.linkedin.com/in/alessiorl/)&nbsp;&nbsp;
@@ -23,7 +18,6 @@
 
 <br>
 <hr>
-<br>
 
 ### Languages and Tools
 
@@ -31,7 +25,6 @@
 
 <br>
 <hr>
-<br>
 
 ### GitHub Profile Stats
 
@@ -47,7 +40,6 @@
 
 <br>
 <hr>
-<br>
 
 ### Support
 <p><a href="https://www.buymeacoffee.com/AlessiOrl"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="AlessiOrl" /></a></p><br><br>
