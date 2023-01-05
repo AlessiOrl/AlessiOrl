@@ -1,20 +1,21 @@
 <h1 align="center">Hi 👋, I'm Alessio</h1>
 <h3 align="center">A 23 y.o. Attending master course in Computer Science</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=alessiorl&label=Profile%20views&color=0e75b6&style=flat" alt="alessiorl" /> </p>
 
 - 🔭 I’m currently working on **non-rigid 3D alignement on human bodies**
 
 - 👨‍💻 All of my projects are available at [https://github.com/AlessiOrl](https://github.com/AlessiOrl)
 
 - 📫 How to reach me **orlandoalessio1998@gmail.com**
-- 
+
+
 ### Contacts
 
 <br>
 
 [![Linkedin: AlessiOrl](https://img.shields.io/badge/-Alessio-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alessiorl)](https://www.linkedin.com/in/alessiorl/)&nbsp;&nbsp;
 [![GitHub AlessiOrl](https://img.shields.io/github/followers/alessiorl?label=follow&style=social)](https://github.com/alessiorl)&nbsp;&nbsp;
+<img src="https://komarev.com/ghpvc/?username=alessiorl&label=Profile%20views&color=0e75b6&style=flat" alt="alessiorl" />
 
 <br>
 
