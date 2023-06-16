@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋</h1>
 
-🔭 I’m currently working on **non-rigid 3D alignement on human bodies**
+🔭 I’ve last worked on **non-rigid 3D alignement on human bodies**
 
 👨‍💻 All of my projects are available at [https://github.com/AlessiOrl](https://github.com/AlessiOrl)
 
